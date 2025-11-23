@@ -1,4 +1,4 @@
-# Authenticator V5.0 Pro
+# Authenticator V6.0 Pro
 
 一款功能强大的TOTP（基于时间的一次性密码）验证器应用程序，提供安全、便捷的双因素身份验证解决方案。
 
