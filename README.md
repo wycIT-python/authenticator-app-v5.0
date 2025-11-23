@@ -2,7 +2,7 @@
 
 一款功能强大的TOTP（基于时间的一次性密码）验证器应用程序，提供安全、便捷的双因素身份验证解决方案。
 
-![版本](https://img.shields.io/badge/版本-V5.0_Pro-blue)
+![版本](https://img.shields.io/badge/版本-V6.0_Pro-blue)
 ![Python](https://img.shields.io/badge/Python-3.6%2B-green)
 ![许可证](https://img.shields.io/badge/许可证-MIT-lightgrey)
 
